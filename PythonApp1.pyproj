@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3400f21d-1cc0-4166-a300-018b0b6f11e4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>ul6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +22,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="PythonApp1.py" />
+    <Compile Include="ul10.py" />
+    <Compile Include="ul6.py" />
+    <Compile Include="ul7.py" />
+    <Compile Include="ul8.py" />
+    <Compile Include="ul9.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
