@@ -13,3 +13,4 @@ while True:
      break
     except ValueError:
      print("Palun sisesta kehtiv number vanuse jaoks")
+     -
